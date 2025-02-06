@@ -4,7 +4,6 @@ numpy==1.21.0
 requests==2.27.1
 groq==1.2.0
 openai-whisper==2024.11.0
-whisper
 PyPDF2==3.0.0
 pdfplumber==0.5.28
 pytesseract==0.3.8
